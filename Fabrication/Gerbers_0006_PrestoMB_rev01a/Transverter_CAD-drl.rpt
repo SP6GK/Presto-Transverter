@@ -1,0 +1,37 @@
+Drill report for Transverter_CAD.kicad_pcb
+Created on 2025-06-08T18:03:49+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'Transverter_CAD-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,300mm  0,0118"  (10 holes)
+    T2  0,400mm  0,0157"  (157 holes)
+    T3  0,500mm  0,0197"  (13 holes)
+    T4  0,600mm  0,0236"  (1982 holes)
+    T5  0,650mm  0,0256"  (1 hole)
+    T6  0,750mm  0,0295"  (12 holes)
+    T7  0,800mm  0,0315"  (5 holes)
+    T8  0,950mm  0,0374"  (6 holes)
+    T9  1,000mm  0,0394"  (235 holes)
+    T10  1,000mm  0,0394"  (98 holes)
+    T11  1,200mm  0,0472"  (5 holes)
+    T12  1,520mm  0,0598"  (2 holes)
+    T13  1,700mm  0,0669"  (20 holes)
+    T14  3,200mm  0,1260"  (12 holes)
+
+    Total plated holes count 2558
+
+
+Drill file 'Transverter_CAD-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
